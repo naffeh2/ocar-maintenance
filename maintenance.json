@@ -1,5 +1,5 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "title": "تحت الصيانة",
   "message": "نقوم بتحديث التطبيق حالياً. حاول لاحقاً.",
   "extra": "مدة الصيانة 10~30 دقيقة"
